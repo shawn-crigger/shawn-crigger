@@ -14,30 +14,14 @@ I managed to create an online presence with my [Blog](https://shawn-crigger.xyz)
 
 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="50" height="50"/> <img src="https://nuxtjs.org/logos/nuxtjs-typo.svg" alt="Nuxt" width="90" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="60" height="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/keystonejs.svg" alt="KeystoneJS" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/> 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="AngularJS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original-wordmark.svg" alt="HandleBars" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="60" height="60"/> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-plain.svg" alt="DigitalOcean" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="Debian" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="Slack" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/> 
 
 ---
 
 📘 Latest Blog Articles
 
-<!-- BLOG-POST-LIST:START -->
-- [The Fastest Way To Replace All Occurrences Of A String In JavaScript](https://catalins.tech/the-fastest-way-to-replace-all-occurrences-of-a-string-in-javascript)
-- [How To Create A Kickass GitHub Profile Page](https://catalins.tech/how-to-create-a-kickass-github-profile-page)
-- [How To Center Vertically A Flexbox Container With A Column Of Flex Items](https://catalins.tech/how-to-center-vertically-a-flexbox-container-with-a-column-of-flex-items)
-- [Should Developers Use An Existing Blogging Platform Or Build A Blog From Scratch](https://catalins.tech/should-developers-use-an-existing-blogging-platform-or-build-a-blog-from-scratch)
-- [Vue JS CDN Link - How To Use Vue Without Installing It](https://catalins.tech/vue-js-cdn-link-how-to-use-vue-without-installing-it)
-<!-- BLOG-POST-LIST:END -->
 
-▶ [...more blog articles](https://catalins.tech)
+▶ [...more blog articles](https://shawncrigger.xyz)
 
 ---
 
