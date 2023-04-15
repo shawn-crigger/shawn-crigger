@@ -60,7 +60,9 @@ I managed to create an online presence with my [Blog](https://blog.shawn-crigger
   alt="yarn" width="50" height="50" /> <img
   src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-plain.svg" alt="DigitalOcean"
   width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg"
-  alt="Debian" width="50" height="50" /> <img
+  alt="Debian" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original-wordmark.svg"
+  alt="Redhat" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg"
+  alt="Ubuntu" width="50" height="50" /> <img
   src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50"
   height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="Slack"
   width="50" height="50" /> <img
