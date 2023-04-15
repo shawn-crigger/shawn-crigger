@@ -23,11 +23,14 @@ I managed to create an online presence with my [Blog](https://blog.shawn-crigger
   width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"
   alt="PHP" width="50" height="50" /> <img
   src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter"
-  width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"
+  width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg"
+  alt="Symfony" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"
   alt="Laravel" width="50" height="50" /> <img
   src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="WordPress"
   width="50" height="50" /> <img
   src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50"
+  height="50" /> <img
+  src="https://github.com/devicons/devicon/blob/master/icons/foundation/foundation-plain-wordmark.svg" alt="Foundation" width="50"
   height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"
   alt="JavaScript" width="50" height="50" /> <img
   src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="50"
@@ -48,6 +51,10 @@ I managed to create an online presence with my [Blog](https://blog.shawn-crigger
   height="50" /> <img
   src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
   alt="AWS" width="50" height="50" /> <img
+  src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg"
+  alt="Azure" width="50" height="50" /> <img
+  src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain-wordmark.svg"
+  alt="Redis" width="50" height="50" /> <img
   src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50"
   height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg"
   alt="yarn" width="50" height="50" /> <img
@@ -58,6 +65,10 @@ I managed to create an online presence with my [Blog](https://blog.shawn-crigger
   height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="Slack"
   width="50" height="50" /> <img
   src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50"
+  height="50" /> <img
+  src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-plain-wordmark.svg" alt="JIRA" width="50"
+  height="50" /> <img
+  src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" alt="Confluence" width="50"
   height="50" />
 
 ---
